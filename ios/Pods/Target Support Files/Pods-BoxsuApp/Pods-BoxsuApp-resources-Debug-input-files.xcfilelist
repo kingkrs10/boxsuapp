@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-BoxsuApp/Pods-BoxsuApp-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/RCT-Folly.default-Fabric/RCT-Folly_privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/React-Core-60309c9c/React-Core_privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/React-cxxreact/React-cxxreact_privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/boost/boost_privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/glog/glog_privacy.bundle

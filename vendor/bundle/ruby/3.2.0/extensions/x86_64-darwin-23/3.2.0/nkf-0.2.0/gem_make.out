@@ -1,0 +1,19 @@
+current directory: /Users/sg/BoxsuApp/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+/Users/sg/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/sg/BoxsuApp/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250110-82000-oz2hd5 sitelibdir\=./.gem.20250110-82000-oz2hd5 clean
+
+current directory: /Users/sg/BoxsuApp/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250110-82000-oz2hd5 sitelibdir\=./.gem.20250110-82000-oz2hd5
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/sg/BoxsuApp/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250110-82000-oz2hd5 sitelibdir\=./.gem.20250110-82000-oz2hd5 install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20250110-82000-oz2hd5
+
+current directory: /Users/sg/BoxsuApp/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250110-82000-oz2hd5 sitelibdir\=./.gem.20250110-82000-oz2hd5 clean

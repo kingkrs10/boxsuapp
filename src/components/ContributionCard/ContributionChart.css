@@ -1,0 +1,18 @@
+import React from 'react';
+import ContributionChart from './components/ContributionChart'; // Ensure the path is correct
+
+const sampleData = [
+  { date: '2024-11-20', amount: 100 },
+  { date: '2024-11-21', amount: 150 },
+];
+
+function Dashboard() {
+  return (
+    <div>
+      <h2>Contributions</h2>
+      <ContributionChart data={sampleData} />
+    </div>
+  );
+}
+
+export default Dashboard;
